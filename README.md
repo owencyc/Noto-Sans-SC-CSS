@@ -2,7 +2,7 @@
 
 Optimized CSS file and font files for local host.
 
-Available on NPM: https://www.npmjs.com/package/noto-sans-sc
+Available on NPM: https://www.npmjs.com/package/owenc-noto-sans-sc
 
 
 ## Font Weight
